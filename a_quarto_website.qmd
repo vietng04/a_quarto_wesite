@@ -1,0 +1,12 @@
+---
+project: 
+  type: website
+  output-dir: docs
+  
+website:
+  title: "a_quarto_website"
+---
+
+## Viet Nguyen
+
+Hello! This is my third year at UofT and Im in Statistics major.
